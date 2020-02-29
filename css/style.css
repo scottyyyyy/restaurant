@@ -135,7 +135,7 @@ button, a, a.btn,
 
 .caption h1 {
 	font-family: 'Pacifico', cursive;
-	font-size: 4.5rem;
+	font-size: 4rem;
 	color: green !important;
 	-webkit-text-stroke: 1px white;
 	letter-spacing: .3rem;
@@ -223,6 +223,13 @@ button, a, a.btn,
 	background-color: white;
 }
 
+.black-one {
+	color: black;
+}
+
+.card-footer {
+	background-color: white;
+}
 /*===== FIXED BACKGROUND IMG DARK =====*/
 
 /*--- iOS Fixed Background Image --*/
@@ -257,6 +264,12 @@ button, a, a.btn,
 	color: #999;
 }
 
+.modal-title {
+	font-family: 'Pacifico', cursive;
+	font-size: 1.5rem;
+	color: #1b6d09;
+}
+
 .news-text {
 	font-family: 'Playfair Display', serif;
 	font-size: 1.5rem;
@@ -277,7 +290,7 @@ button, a, a.btn,
 }
 
 .box2	{
-	background: rgb(192, 192, 200, 0.6);
+	background: white;
 }
 
 .box3	{
@@ -290,6 +303,18 @@ button, a, a.btn,
 
 .fa-phone:hover {
 	color: #f9f8f7;
+}
+
+.fa-envelope:hover {
+	color: #f9f8f7;
+}
+
+.fa-home:hover {
+	color: #1b6d09;
+}
+
+.green-back {
+	color: #1b6d09;
 }
 /*============= TEAM SECTION FIXED BG IMG LIGHT =============*/
 
@@ -314,7 +339,18 @@ button, a, a.btn,
 /*============= MEDIA QUERIES =============*/
 
 /* Devices under 992px (lg) */
+@media (max-width: 991.98px) {
+	.caption h1 {
+	font-size: 3.5rem;
+	letter-spacing: .2rem;
+	padding-bottom: .8rem;
+}
 
+.caption h3 {
+	font-size: 2.2rem;
+	letter-spacing: .1rem;
+}
+}
 
 /* Devices under 768px (md) */
 
