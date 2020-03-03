@@ -1,4 +1,3 @@
-/*============= RESETS ============= font-family: 'Pacifico', cursive; font-family: 'Raleway', sans-serif;*/
 
 /*-- iPhone X Remove Gutters --*/
 html {
@@ -230,15 +229,9 @@ button, a, a.btn,
 .card-footer {
 	background-color: white;
 }
-/*===== FIXED BACKGROUND IMG DARK =====*/
-
-/*--- iOS Fixed Background Image --*/
 
 
-/*============= PORTFOLIO SECTION =============*/
-
-
-/*============= PRICING SECTION =============*/
+/*============= MENU SECTION =============*/
 .menu-header-text {
 	font-family: 'Dancing Script', cursive;
 	font-weight: bold;
@@ -270,6 +263,8 @@ button, a, a.btn,
 	color: #1b6d09;
 }
 
+/*============= NEWS SECTION =============*/
+
 .news-text {
 	font-family: 'Playfair Display', serif;
 	font-size: 1.5rem;
@@ -285,6 +280,7 @@ button, a, a.btn,
   background: #f1efed !important; 
 }
 
+/*============= CONTACT SECTION =============*/
 .box1	{
 	background: #1b6d09;
 }
@@ -316,24 +312,6 @@ button, a, a.btn,
 .green-back {
 	color: #1b6d09;
 }
-/*============= TEAM SECTION FIXED BG IMG LIGHT =============*/
-
-/*--- Team Light Background Image --*/
-
-
-/*============= SKILLS SECTION =============*/
-
-
-/*============= CLIENTS SECTION =============*/
-
-
-/*============= CONTACT SECTION =============*/
-
-
-/*--- Contact Form --*/
-
-
-/*============= TOP SCROLL =============*/
 
 
 /*============= MEDIA QUERIES =============*/
