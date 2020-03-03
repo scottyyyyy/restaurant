@@ -393,6 +393,10 @@ button, a, a.btn,
 .navbar a {
 	font-size: .8rem;
 }
+
+#contact iframe {
+	width: 70%;
+}
 }
 
 
