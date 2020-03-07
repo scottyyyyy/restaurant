@@ -43,7 +43,10 @@ $(document).ready(function () {
   });
 });
 
-
+/*========== BEST OF WEST MODAL ==========*/
+$(document).ready(function () {
+  $("modalBestWest").modal('show');
+});
 
 
 
